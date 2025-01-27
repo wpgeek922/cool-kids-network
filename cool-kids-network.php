@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Cool Kids Network
- * Plugin URI:  https://example.com
+ * Plugin URI:  
  * Description: A user management system for the Cool Kids Network.
  * Version:     1.0
- * Author:      Your Name
- * Author URI:  https://yourwebsite.com
+ * Author:      Mohammed Imtiyaz
+ * Author URI:  
  * Text Domain: cool-kids-network
  */
 

@@ -56,7 +56,7 @@ class API_Endpoints {
     }
 
     public static function authenticate_request( $request ) {
-        // Simple authentication example (replace with your actual logic).
+    
         $auth_key = $request->get_header( 'Authorization' );
 
         if ( $auth_key !== 'Bearer COOL_KIDS_SECRET' ) {
